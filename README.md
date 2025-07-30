@@ -2,11 +2,9 @@
 
 # 👋 Hi, I'm Abdullah Mohamed
 
-**🚀 Software Engineer | 📍 Al-Matarya, Cairo, Egypt**  
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.mohamed102001@gmail.com)  
-📱 **Phone:** +201 111 85 2544  
-
+**🚀 Software Engineer**  
+[![Location](https://img.shields.io/badge/Location-Cairo,%20Egypt-red?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Cairo,+Egypt)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.mohamed102001@gmail.com)  [![Phone](https://img.shields.io/badge/Phone-%2B201111852544-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+201111852544) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Mohamed-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdullah-mohamed-3010) 
 [![GitHub](https://img.shields.io/badge/GitHub-Abdullah3010-black?style=for-the-badge&logo=github)](https://github.com/Abdullah3010)
 
@@ -44,17 +42,31 @@
 - **Jaweb** — *Flutter | My Fatoorah*  
   [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.jawebapp.game&pli=1) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/eg/app/jaweb/id6742411453)  
 
-  ![Jaweb Screenshot](https://via.placeholder.com/600x300.png?text=Jaweb+Preview)
+<table>
+  <tr>
+    <td>
+      <img src="images/jaweb1.webp" alt="Jaweb Screenshot 1" width="100%" height="360" />
+    </td>
+    <td>
+      <img src="images/jaweb2.webp" alt="Jaweb Screenshot 2" width="100%" /><br/>
+      <img src="images/jaweb3.webp" alt="Jaweb Screenshot 3" width="100%" />
+    </td>
+  </tr>
+</table>
 
 - **FasTap** — *Flutter | Flutter Web | Firebase | Ngnix | Hosting*  
   [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=net.fastap.app&hl=en) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/be/app/fastap-app/id6503629130) [🌐 Link](https://fastap.net/share/ohMbNOR3mqYJKKF2Z0DwN6uJmXB3)  
 
-  ![FasTap Screenshot](https://via.placeholder.com/600x300.png?text=FasTap+Preview)
+<p align="center">
+    <img src="images/fastab1.webp" width="33%" height="360" />
+    <img src="images/fastab2.webp"  width="33%" height="360" />
+    <img src="images/fastab3.webp"  width="32%" height="360" />
+  </p>
 
 - **Xera Lab Website** — *Flutter, Node.js, Express, Postgres, Docker, Ngnix, AWS S3*  
-  [🌐 Link](https://github.com/Xera-Lab/Xera-back-end) [🌐 Link](https://github.com/Xera-Lab/xera_lab_customer) [🌐 Link](https://github.com/Xera-Lab/Xera-Lab-Portal)  
+  [![BackEnd](https://img.shields.io/badge/BackEnd-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xera-Lab/Xera-back-end)  [![Customer](https://img.shields.io/badge/Customer-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xera-Lab/xera_lab_customer)    [![Admin](https://img.shields.io/badge/admin-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xera-Lab/Xera-Lab-Portal)  
 
-  ![Xera Lab Website Screenshot](https://via.placeholder.com/600x300.png?text=Xera Lab Website+Preview)
+  <!-- ![Xera Lab Website Screenshot](https://via.placeholder.com/600x300.png?text=Xera Lab Website+Preview) -->
 
 
 ---
@@ -84,5 +96,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Abdullah3010-black?style=for-the-badge&logo=github)](https://github.com/Abdullah3010)  
 
 ---
-
-> 💡 *This portfolio README was enhanced with visuals, skills badges, and project previews to better showcase my professional journey and skills.*
