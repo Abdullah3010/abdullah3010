@@ -1,3 +1,5 @@
+![Profile Banner](https://via.placeholder.com/1200x300.png?text=Abdullah+Mohamed+%7C+Software+Engineer)
+
 # 👋 Hi, I'm Abdullah Mohamed
 
 **🚀 Software Engineer | 📍 Al-Matarya, Cairo, Egypt**  
@@ -40,13 +42,19 @@
 ## 📌 Featured Projects
 
 - **Jaweb** — *Flutter | My Fatoorah*  
-  [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.jawebapp.game&pli=1) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/eg/app/jaweb/id6742411453)
+  [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.jawebapp.game&pli=1) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/eg/app/jaweb/id6742411453)  
+
+  ![Jaweb Screenshot](https://via.placeholder.com/600x300.png?text=Jaweb+Preview)
 
 - **FasTap** — *Flutter | Flutter Web | Firebase | Ngnix | Hosting*  
-  [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=net.fastap.app&hl=en) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/be/app/fastap-app/id6503629130) [🌐 Link](https://fastap.net/share/ohMbNOR3mqYJKKF2Z0DwN6uJmXB3)
+  [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=net.fastap.app&hl=en) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/be/app/fastap-app/id6503629130) [🌐 Link](https://fastap.net/share/ohMbNOR3mqYJKKF2Z0DwN6uJmXB3)  
+
+  ![FasTap Screenshot](https://via.placeholder.com/600x300.png?text=FasTap+Preview)
 
 - **Xera Lab Website** — *Flutter, Node.js, Express, Postgres, Docker, Ngnix, AWS S3*  
-  [🌐 Link](https://github.com/Xera-Lab/Xera-back-end) [🌐 Link](https://github.com/Xera-Lab/xera_lab_customer) [🌐 Link](https://github.com/Xera-Lab/Xera-Lab-Portal)
+  [🌐 Link](https://github.com/Xera-Lab/Xera-back-end) [🌐 Link](https://github.com/Xera-Lab/xera_lab_customer) [🌐 Link](https://github.com/Xera-Lab/Xera-Lab-Portal)  
+
+  ![Xera Lab Website Screenshot](https://via.placeholder.com/600x300.png?text=Xera Lab Website+Preview)
 
 
 ---
@@ -57,20 +65,24 @@
 ---
 
 ## 🛠 Technical Skills
-`Flutter, Dart, Firebase, Hive` | `Node.js, Express, Sequelize` | `AWS, S3, Nginx` | `OOP, Problem Solving` | `Bloc, Riverpod, Provider` | `Postgres, MySQL, SQL` | `Hosting, Mail Server, DNS` | `GitHub, Git, Bitbucket` | `Clean Architecture, MVC` | `Docker, Docker Compose` | `SOLID, Design Patterns` | `Swagger, Confluence, Trello, Codemagic, CI/CD`
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🤝 Additional Skills
-`Agile` | `Jira` | `Microsoft Office` | `Leadership` | `Teamwork` | `Self-Learning` | `Time Management`
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 ![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah3010&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah3010&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah3010&layout=compact&theme=radical)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdullah3010&theme=react-dark)
 
 ---
 
-> 💡 *This portfolio README was auto-generated from my CV to showcase my professional journey and projects.*
+## 🤝 Let's Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.mohamed102001@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Mohamed-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdullah-mohamed-3010)  
+[![GitHub](https://img.shields.io/badge/GitHub-Abdullah3010-black?style=for-the-badge&logo=github)](https://github.com/Abdullah3010)  
+
+---
+
+> 💡 *This portfolio README was enhanced with visuals, skills badges, and project previews to better showcase my professional journey and skills.*
