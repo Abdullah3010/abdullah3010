@@ -2,7 +2,7 @@
 
 **🚀 Software Engineer | 📍 Al-Matarya, Cairo, Egypt**  
 
-📧 **Email:** [abdullah.mohamed102001@gmail.com](mailto:abdullah.mohamed102001@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdullah.mohamed102001@gmail.com)  
 📱 **Phone:** +201 111 85 2544  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah%20Mohamed-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdullah-mohamed-3010) 
@@ -20,15 +20,15 @@
 ### 💻 Software Engineer — Dib GmbH | Full Time (Sep 2024 – present)
 
 - **IMOX**  
-  [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.imox.gmbh) [![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/eg/app/imox/id6450317996)
+  [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.imox.gmbh) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/eg/app/imox/id6450317996)
 
 - **YOLO**  
-  [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.lila.lila&pli=1) [![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/app/yolo-clinic-app/id6443390787)
+  [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.lila.lila&pli=1) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/app/yolo-clinic-app/id6443390787)
 
 ### 💻 Software Engineer — Revealsite | Part Time (Nov 2023 – Feb 2025)
 
 - **JD Pharmacy | Medical Central Pharmacy | Quick RX | Holland Pharmacy**  
-  [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/developer?id=Revealsite) [![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/us/developer/revealsite-llc/id1720473895)
+  [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Revealsite) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/us/developer/revealsite-llc/id1720473895)
 
 ### 💻 Software Engineer — Zeyada | Full Time (Apr 2023 – Sep 2024)
 
@@ -40,10 +40,10 @@
 ## 📌 Featured Projects
 
 - **Jaweb** — *Flutter | My Fatoorah*  
-  [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.jawebapp.game&pli=1) [![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/eg/app/jaweb/id6742411453)
+  [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.jawebapp.game&pli=1) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/eg/app/jaweb/id6742411453)
 
 - **FasTap** — *Flutter | Flutter Web | Firebase | Ngnix | Hosting*  
-  [![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=net.fastap.app&hl=en) [![App Store](https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg)](https://apps.apple.com/be/app/fastap-app/id6503629130) [🌐 Link](https://fastap.net/share/ohMbNOR3mqYJKKF2Z0DwN6uJmXB3)
+  [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=net.fastap.app&hl=en) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/be/app/fastap-app/id6503629130) [🌐 Link](https://fastap.net/share/ohMbNOR3mqYJKKF2Z0DwN6uJmXB3)
 
 - **Xera Lab Website** — *Flutter, Node.js, Express, Postgres, Docker, Ngnix, AWS S3*  
   [🌐 Link](https://github.com/Xera-Lab/Xera-back-end) [🌐 Link](https://github.com/Xera-Lab/xera_lab_customer) [🌐 Link](https://github.com/Xera-Lab/Xera-Lab-Portal)
