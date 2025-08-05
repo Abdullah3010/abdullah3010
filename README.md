@@ -1,4 +1,4 @@
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Abdullah+Mohamed+%7C+Software+Engineer)
+<!-- ![Profile Banner](https://via.placeholder.com/1200x300.png?text=Abdullah+Mohamed+%7C+Software+Engineer) -->
 
 # 👋 Hi, I'm Abdullah Mohamed
 
